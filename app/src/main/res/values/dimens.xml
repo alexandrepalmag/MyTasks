@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fab_margin">16dp</dimen>//fab is a floating button
+    <dimen name="activity_margin">16dp</dimen>//activity margin
+    <dimen name="layout_margin">10dp</dimen>//layout margin
+    <dimen name="item_margin">5dp</dimen>//distance between items
+    <dimen name="dialog_title_fontsize">24sp</dimen>//dialog size
+    <dimen name="dialog_input_fontsize">21sp</dimen>//input size
+    <dimen name="list_item_fontsize">21sp</dimen>//input size
+</resources>
