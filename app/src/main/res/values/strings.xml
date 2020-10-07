@@ -2,4 +2,5 @@
     <string name="app_name">mytasks</string>
     <string name="dialogNewTitle">New Task</string>
     <string name="dialogEditTitle">Edit Task</string>
+    <string name="hintText">Add Task...</string>
 </resources>
